@@ -1,0 +1,11 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js application",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {},
+  "author": "Iranna",
+  "license": "MIT"
+}
